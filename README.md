@@ -1,5 +1,9 @@
 # hexalattice
 
+Changes
+* add `encoding="utf-8"` in line 8 of `setup.py`.
+* name from `hexalattice-alexkaz` to `hexalattice`.
+
 Generate and plot hexagonal lattices in 2D, with fine control over spacing between hexagons, arbitrary rotation of the grid around central tile, etc.
 The module computes and returns the center point for each of the tiles in the lattice. 
 

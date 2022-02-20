@@ -5,12 +5,12 @@ import pathlib
 HERE = pathlib.Path(__file__).parent
 
 # The text of the README file
-with open("README.md", "r") as fh:
+with open("README.md", "r",encoding="utf-8") as fh:
     long_description = fh.read()
 
 # This call to setup() does all the work
 setuptools.setup(
-    name="hexalattice-alexkaz",
+    name="hexalattice",
     version="1.2.0",
     description="Compute and plot hexagonal grids",
     long_description=long_description,
