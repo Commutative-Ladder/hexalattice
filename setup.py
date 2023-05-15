@@ -11,7 +11,7 @@ with open("README.md", "r",encoding="utf-8") as fh:
 # This call to setup() does all the work
 setuptools.setup(
     name="hexalattice",
-    version="1.2.0",
+    version="1.2.2",
     description="Compute and plot hexagonal grids",
     long_description=long_description,
     long_description_content_type="text/markdown",
