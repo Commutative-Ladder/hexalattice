@@ -1,4 +1,12 @@
-# Changes Made
+# Repository Archived
+
+## Notice of Archive
+
+This fork has been archived. The modifications made in this fork is no longer required due to updates in the main repository. For ongoing development and the latest version, please refer to the original project.
+
+This repository is retained for historical reference and may be useful for those with dependencies on its specific modifications.
+
+## Changes Made
 
 This repository is a fork of the original repository
 
